@@ -5,7 +5,7 @@
 
 🌐 项目主页：[melodai.pro](https://melodai.pro)  
 
-📄 [下载白皮书](./docs/MelodAI_ Decentralized Intelligent Music & Video Creation and Recommendation Framework.pdf)
+📄 [下载白皮书](./docs/whitepaper.pdf)
 
 
 ---
