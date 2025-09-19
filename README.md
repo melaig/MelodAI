@@ -4,6 +4,8 @@
 它不仅能生成旋律灵感、解析影视内容，还能帮助创作者在灵感与制作之间建立桥梁。  
 
 🌐 项目主页：[melodai.pro](https://melodai.pro)  
+📄 [下载白皮书](./docs/whitepaper.pdf)
+
 
 ---
 
