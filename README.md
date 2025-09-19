@@ -1,98 +1,97 @@
 # 🎵 MelodAI  
 
-> **MelodAI** 是一款面向音乐、电影、短视频领域的智能 AI 助理。  
-它不仅能生成旋律灵感、解析影视内容，还能帮助创作者在灵感与制作之间建立桥梁。  
+> **MelodAI** is an intelligent AI assistant focused on **music, film, and short video creation**.  
+It generates creative inspiration, analyzes content, and bridges the gap between ideas and production.  
 
-🌐 项目主页：[melodai.pro](https://melodai.pro)  
+🌐 Project Homepage: [melodai.pro](https://melodai.pro)  
 
-📄 [下载白皮书](./docs/whitepaper.pdf)
-
-
----
-
-## ✨ 功能特性  
-
-- 🎶 **音乐智能**  
-  - AI 旋律/和弦/歌词建议  
-  - 音乐情绪与风格分析  
-
-- 🎬 **影视解析**  
-  - 影视片段剧情概述  
-  - 视频剪辑灵感与脚本辅助  
-
-- 📱 **短视频支持**  
-  - 热门趋势解析  
-  - 内容创意与文案提示  
-
-- 🧠 **对话式交互**  
-  - 与 MelodAI 进行自然语言交流  
-  - 支持多语言对话（自动识别用户语言）  
+📄 [Download Whitepaper](./docs/whitepaper.pdf)  
 
 ---
 
-## 🚀 快速开始  
+## ✨ Features  
 
-### 1. 克隆项目  
+- 🎶 **Music Intelligence**  
+  - AI suggestions for melody, chords, and lyrics  
+  - Emotion and style analysis for compositions  
+
+- 🎬 **Film Analysis**  
+  - Scene and plot summaries  
+  - Script and editing inspiration  
+
+- 📱 **Short Video Support**  
+  - Trend analysis  
+  - Creative ideas and caption generation  
+
+- 🧠 **Conversational Interaction**  
+  - Chat naturally with MelodAI  
+  - Multi-language support (auto-detects user language)  
+
+---
+
+## 🚀 Getting Started  
+
+### 1. Clone the Repository  
 ```bash
-git clone https://github.com/你的GitHub用户名/melodai.git
+git clone https://github.com/your-username/melodai.git
 cd melodai
 ```
 
-### 2. 安装依赖  
+### 2. Install Dependencies  
 ```bash
 npm install
 ```
 
-### 3. 启动服务  
+### 3. Start the Development Server  
 ```bash
 npm run dev
 ```
 
-默认运行在：`http://localhost:3000`  
+Default URL: `http://localhost:3000`  
 
 ---
 
-## 📖 使用方式  
+## 📖 Usage  
 
-1. 打开 [melodai.pro](https://melodai.pro)  
-2. 直接输入你想要的灵感问题，例如：  
-   - `帮我写一段爵士风格的旋律`  
-   - `解释这段电影片段的情绪`  
-   - `生成一个适合短视频的文案`  
+1. Open [melodai.pro](https://melodai.pro)  
+2. Enter your request, for example:  
+   - `Write me a jazz-style melody`  
+   - `Summarize the emotion of this movie scene`  
+   - `Generate a short video caption`  
 
-3. MelodAI 将即时生成结果。  
-
----
-
-## 🛠️ 技术栈  
-
-- **前端框架**: Vue 3 + Vite  
-- **UI 框架**: Vuetify + 自定义组件  
-- **后端支持**: Node.js 
-- **AI 模型**: Grok + 自研模型扩展  
-- **部署**: 自托管  
+3. MelodAI will instantly generate results.  
 
 ---
 
-## 🤝 贡献  
+## 🛠️ Tech Stack  
 
-欢迎贡献代码或提出新功能建议！  
+- **Frontend**: Vue 3 / Vite  
+- **UI Framework**: Vuetify + custom components  
+- **Backend**: Node.js / Express  
+- **AI Models**: OpenAI / custom extensions  
+- **Deployment**: Vercel / self-hosted  
 
-1. Fork 本项目  
-2. 新建分支 (`git checkout -b feature/your-feature`)  
-3. 提交修改 (`git commit -m 'add new feature'`)  
-4. 推送分支 (`git push origin feature/your-feature`)  
-5. 发起 Pull Request  
+---
+
+## 🤝 Contributing  
+
+Contributions are welcome!  
+
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature/your-feature`)  
+3. Commit your changes (`git commit -m 'add new feature'`)  
+4. Push to the branch (`git push origin feature/your-feature`)  
+5. Open a Pull Request  
 
 ---
 
 ## 📜 License  
 
-本项目基于 **MIT License** 开源，详情请见 [LICENSE](./LICENSE)。  
+This project is licensed under the **MIT License**. See [LICENSE](./LICENSE) for details.  
 
 ---
 
-## 💡 联系我们  
+## 💡 Contact  
 
-- 官方网站：[melodai.pro](https://melodai.pro)  
-- Issues 反馈：[GitHub Issues](https://github.com/melaig/melodai/issues)  
+- Website: [melodai.pro](https://melodai.pro)  
+- Issues: [GitHub Issues](https://github.com/your-username/melodai/issues)  
